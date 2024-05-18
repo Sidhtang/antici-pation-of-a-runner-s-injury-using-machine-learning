@@ -1,1 +1,3 @@
 # antici-pation-of-a-runner-s-injury-using-machine-learning
+running is a great form of exercise, recreation, and sport participation for adults, adolescents, and children. Whether alone or in a team environment, running, when done properly, can enhance physical fitness, coordination, sense of accomplishment, and physical and emotional development
+the data set contains samples from 74 runners, of whom 27 are women and 47 are men. At the moment of data collection, they had been in the team for an average of 37 years. Most athletes competed on a national level, and some also on an international level
